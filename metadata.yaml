@@ -1,0 +1,36 @@
+_repo: De-wonderstraal--13-gevolgd-door-Tien-uren-op-jacht_27397
+_version: 0.1.0
+alternative_title: Le rayon vert. Dutch
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Verne, Jules
+    aliases:
+    - Verne, Júlio
+    - Verne, Jules Gabriel
+    - Verne, Jules Gabriël
+    birthdate: 1828
+    deathdate: 1905
+    gutenberg_agent_id: '60'
+    url: http://www.gutenberg.org/2009/agents/60
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Jules_Verne
+    - http://en.wikipedia.org/wiki/Jules_Verne
+    - http://pt.wikipedia.org/wiki/Júlio_Verne
+description: ''
+gutenberg_issued: '2008-12-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27397'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Arranged marriage -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Hebrides (Scotland) -- Fiction'
+title: De wonderstraal; gevolgd door Tien uren op jacht
+url: http://www.gutenberg.org/ebooks/27397
